@@ -1,3 +1,3 @@
 # Pre-practica
 
-The pre-practica fider inside the main Branch is the blockchain project folder
+The pre-practica folder inside the main branch is the blockchain project folder.
