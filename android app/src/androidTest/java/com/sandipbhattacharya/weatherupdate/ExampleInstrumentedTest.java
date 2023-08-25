@@ -1,4 +1,4 @@
-package com.sandipbhattacharya.weatherupdate;
+package com.vicc.weatherupdate;
 
 import android.content.Context;
 
